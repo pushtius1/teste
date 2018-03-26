@@ -1,5 +1,4 @@
 <?php
-echo 'PLM';
 if ($a==$b){
       $b=$a;
    }
